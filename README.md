@@ -1,51 +1,23 @@
-## Developer Portfolio Landing Page Template
+# Portfolio
 
-### Introduction
+---
 
-Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
+### Data Science Projects
 
-<img src="images/demo.gif?raw=true"/>
+[Project 1: Data Wrangling and Machine Learning to Identify the Key Factors Affecting Credit Card Holders' Spending Behaviour](https://github.com/nfiahmadfakhri/nfiahmadfakhri.github.io/blob/master/projects/Portfolio%20-%20Credit%20Card%20Spending%20Behaviour.ipynb)
 
-### Installation
+This project is worked on for the purpose of self-practice to implement the knowledge on Data Science onto banking problems. The main objective of this project is to identify the main factors that affect credit card holders' spending behaviour and to predict the credit card spending limit of each customer. Data cleaning and wrangling were performed over the information obtained from 5000 credit card holders using __Python__. 
 
-See full step by step tutorial [on Medium](https://medium.com/@evanca/set-up-your-portfolio-website-in-less-than-10-minutes-with-github-pages-d0efa8ff56fd).
-___
+The datasets contain both numerical and categorical variables, and all variables were taken into consideration as the potential drivers that could affect the total credit card spending. Feature selection and multicollinearity handling have been performed over the datasets to reduce the number of input variables before a predictive model is developed. The datasets were fit into __Linear Regression model__ and __Random Forest Regression model__ to predict the credit card spending limit for each customer.
 
-You can use the editor on GitHub to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<img src="projects/Top 10 Factors Affecting Credit Card Total Spending.png?raw=true"/>
 
-### Markdown
+---
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Roadmap
-
-See the [open issues](https://github.com/evanca/quick-portfolio/issues) for a list of proposed features (and known issues).
-___
-
-### References
-
-[1] Jekyll theme "Minimal" for GitHub Pages: https://github.com/pages-themes/minimal (CC0 1.0 Universal License)
-<br>[2] Dummy photo via: https://pixabay.com/photos/man-male-adult-person-caucasian-1209494/ (Pixabay License)
-<br>[3] Dummy thumbnail image created by rawpixel.com: https://www.freepik.com/free-vector/set-elements-infographic_2807573.htm (Standard Freepik License)
+---
+<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+<!-- Remove above link if you don't want to attibute -->
