@@ -10,7 +10,8 @@ This project is worked on for the purpose of self-practice to implement the know
 
 The datasets contain both numerical and categorical variables, and all variables were taken into consideration as the potential drivers that could affect the total credit card spending. Feature selection and multicollinearity handling have been performed over the datasets to reduce the number of input variables before a predictive model is developed. The datasets were fit into __Linear Regression model__ and __Random Forest Regression model__ to predict the credit card spending limit for each customer.
 
-<img src="/projects/Top_10_Factors_Affecting_Credit_Card_Total_Spending.png?raw=true"/>
+
+<img src="projects/Top 10 Factors Affecting Credit Card Total Spending.png?raw=true"/>
 
 ---
 
