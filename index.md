@@ -4,7 +4,7 @@
 
 ### Data Science Projects
 
-[Project 1: Data Wrangling and Machine Learning to Identify the Key Factors Affecting Credit Card Holders' Spending Behaviour](/projects/Credit Card Spending Behaviour/Portfolio - Credit Card Spending Behaviour.ipynb)
+[Project 1: Data Wrangling and Machine Learning to Identify the Key Factors Affecting Credit Card Holders' Spending Behaviour](/projects/Portfolio - Credit Card Spending Behaviour.ipynb)
 
 This project is worked on for the purpose of self-practice to implement the knowledge on Data Science onto banking problems. The main objective of this project is to identify the main factors that affect credit card holders' spending behaviour and to predict the credit card spending limit of each customer. Data cleaning and wrangling were performed over the information obtained from 5000 credit card holders using __Python__. 
 
