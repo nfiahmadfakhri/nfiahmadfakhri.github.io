@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### Data Science Projects
 
-[Project 1 Title](/sample_page)
+[Project 1: Data Wrangling and Machine Learning to Identify the Key Factors Affecting Credit Card Holders' Spending Behaviour](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
