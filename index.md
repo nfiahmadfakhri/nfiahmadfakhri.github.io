@@ -10,7 +10,7 @@
 - Did multiple query calls as a basis to generate an actionable dashboard.
 - Created a dashboard on Google Sheets with dynamic filtering options to display FIFA 21 players profile.
 
-<img src="Figures/FIFA 2021 Players Profile Dashboard.png?raw=true"/>
+<img src="images/FIFA 2021 Players Profile Dashboard.png?raw=true"/>
 
 
 [Project 1: Data Wrangling and Machine Learning to Identify the Key Factors Affecting Credit Card Holders' Spending Behaviour](https://github.com/nfiahmadfakhri/Data-Science-Projects/blob/main/Projects/Portfolio%20-%20Credit%20Card%20Spending%20Behaviour.ipynb)
